@@ -15,3 +15,4 @@ Pontos importantes:
   - No meio do caminho surgiu algumas dúvidas sobre regras de negócio, acabei tomando algumas decisões para que a aplicação fosse feita da melhor forma.
   - O módulo de testes não está incluso por falta de conhecimento e tempo, porém já estou me organizando para incluir os estudos de testes em minha rotina diária de estudos.
   - Todos os campos possuem validações para garantir o correto preenchimento das informações.
+  - A Solution se encontra na pasta EnergyCompanyEndpoint.
