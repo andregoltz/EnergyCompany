@@ -1,0 +1,11 @@
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\bin\Debug\EnergyCompanyEndpoint.exe.config
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\bin\Debug\EnergyCompanyEndpoint.exe
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\bin\Debug\EnergyCompanyEndpoint.pdb
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\obj\Debug\EnergyCompanyEndpoint.csproj.AssemblyReference.cache
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\obj\Debug\EnergyCompanyEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\obj\Debug\EnergyCompanyEndpoint.exe
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\obj\Debug\EnergyCompanyEndpoint.pdb
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\bin\Debug\EnergyCompany.Domain.exe
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\bin\Debug\EnergyCompany.Domain.pdb
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\bin\Debug\EnergyCompany.Domain.exe.config
+C:\Users\luizg\Teste\EnergyCompanyEndpoint\obj\Debug\EnergyCompanyEndpoint.csproj.CopyComplete
