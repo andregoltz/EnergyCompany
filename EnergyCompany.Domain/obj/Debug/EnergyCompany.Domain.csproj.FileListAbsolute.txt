@@ -1,0 +1,7 @@
+C:\Users\luizg\Teste\EnergyCompany.Domain\bin\Debug\EnergyCompany.Domain.exe.config
+C:\Users\luizg\Teste\EnergyCompany.Domain\bin\Debug\EnergyCompany.Domain.exe
+C:\Users\luizg\Teste\EnergyCompany.Domain\bin\Debug\EnergyCompany.Domain.pdb
+C:\Users\luizg\Teste\EnergyCompany.Domain\obj\Debug\EnergyCompany.Domain.csproj.AssemblyReference.cache
+C:\Users\luizg\Teste\EnergyCompany.Domain\obj\Debug\EnergyCompany.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luizg\Teste\EnergyCompany.Domain\obj\Debug\EnergyCompany.Domain.exe
+C:\Users\luizg\Teste\EnergyCompany.Domain\obj\Debug\EnergyCompany.Domain.pdb
